@@ -3,6 +3,6 @@ id: fk40b
 name: fk40b
 type: shield
 url: https://github.com/felixm12138/fk40b
-requires: [nrfmicro_13]
+requires: [nice_nano_v2]
 features:
   - keys
